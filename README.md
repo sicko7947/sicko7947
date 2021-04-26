@@ -58,13 +58,13 @@ What are you doing here :grey_question::grey_question:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="48" height="48" alt="Node JS" />
+        <img src="https://image.flaticon.com/icons/png/512/919/919825.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
