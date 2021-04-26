@@ -64,7 +64,7 @@ What are you doing here :grey_question::grey_question:
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.thenewstack.io/media/2014/04/homepage-docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
