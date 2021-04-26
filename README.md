@@ -1,4 +1,5 @@
 # fmt.Println("Hi there 👋")
+![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/author-SICKO-pink)
 What are you doing here :grey_question::grey_question: 
 
 
