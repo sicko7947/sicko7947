@@ -1,10 +1,7 @@
-### Hi there 👋
+# fmt.Println("Hi there 👋")
 
 
-**sicko7947/sicko7947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# :question: About Me
 - 🔭 I’m currently working on: SICKO AIO
 - 🌱 I’m currently learning: golang C++ rust...
 - 👯 I’m looking to collaborate on: cybersecurity, web attack & defence...
