@@ -56,8 +56,6 @@ What are you doing here :grey_question::grey_question:
       </a>
       <br>Node JS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
