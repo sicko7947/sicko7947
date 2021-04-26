@@ -34,7 +34,7 @@ What are you doing here :grey_question::grey_question:
       <a href="#macropower-tech">
         <img src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>Golang&nbsp;(Core)
+      <br>Golang
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech">
@@ -90,5 +90,12 @@ What are you doing here :grey_question::grey_question:
       </a>
       <br>Redis
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    
   </tr>
 </table>
