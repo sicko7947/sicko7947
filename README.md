@@ -18,11 +18,6 @@ What are you doing here :grey_question::grey_question:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sicko7947&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sicko7947&layout=compact&theme=material-palenight" />
-</a>
-
 
 
 
@@ -86,7 +81,18 @@ What are you doing here :grey_question::grey_question:
       </a>
       <br>RHEL
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
   </tr>
 </table>
 
 <h2 align="left">Coding Activity</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sicko7947&layout=compact&theme=material-palenight" />
+</a>
