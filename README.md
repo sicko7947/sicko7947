@@ -8,7 +8,7 @@ What are you doing here :grey_question::grey_question:
 - 🔭 I’m currently working on: SICKO AIO
 - 🌱 I’m currently learning: golang C++ rust...
 - 👯 I’m looking to collaborate on: reverse engineering, cybersecurity...
-  🤔 I’m looking for help with: A good frontend developer with great knowledge on javascript, nodejs and V8
+- 🤔 I’m looking for help with: A good frontend developer with great knowledge on javascript, nodejs and V8
 - 💬 Ask me about: ANYTHINGGG
 - 📫 How to reach me: via discord sicko#7947 or via Twitter @sicko7947
 - 😄 Pronouns: sicko
