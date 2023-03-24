@@ -5,7 +5,7 @@ What are you doing here :grey_question::grey_question:
 
 
 # :question: About Me
-- 🔭 I’m currently working on: GPT shit
+- 🔭 I’m currently working on: GPT
 - 🌱 I’m currently learning: golang rust...
 - 👯 I’m looking to collaborate on: AI...
 - 🤔 I’m looking for help with: A good frontend developer with great knowledge on javascript, nodejs and V8
