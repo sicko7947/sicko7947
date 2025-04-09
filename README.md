@@ -5,12 +5,11 @@ What are you doing here :grey_question::grey_question:
 
 
 # :question: About Me
-- 🔭 I’m currently working on: GPT
+- 🔭 I’m currently working on: idek
 - 🌱 I’m currently learning: golang rust...
-- 👯 I’m looking to collaborate on: AI...
-- 🤔 I’m looking for help with: A good frontend developer with great knowledge on javascript, nodejs and V8
-- 💬 Ask me about: ANYTHINGGG
-- 📫 How to reach me: via discord sicko#7947
+- 👯 I’m looking to collaborate on: Quant Strategies, LLM, Secure ML
+- 🤔 I’m looking for help with: Anything
+- 💬 Ask me about: Anything
 - 😄 Pronouns: sicko
 - ⚡ Fun fact: I don't sleep
 
