@@ -5,7 +5,7 @@ What are you doing here :grey_question::grey_question:
 
 
 # :question: About Me
-- 🔭 I’m currently working on: idek
+- 🔭 I’m currently working on: Secure ML
 - 🌱 I’m currently learning: golang rust...
 - 👯 I’m looking to collaborate on: Quant Strategies, LLM, Secure ML
 - 🤔 I’m looking for help with: Anything
