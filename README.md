@@ -32,13 +32,13 @@
       <br>Golang
     </td>
     <td align="center" width="96">
-      <br>C++
+      <br>Typescript
     </td>
     <td align="center" width="96">
       <br>Python
     </td>
     <td align="center" width="96">
-      <br>Javascript
+      <br>React JS
     </td>
     <td align="center" width="96">
       <br>Vue JS
@@ -53,7 +53,7 @@
       <br>Arch Linux
     </td>
     <td align="center"  width="96">
-      <br>RHEL
+      <br>Nginx
     </td>
     <td align="center"  width="96">
       <br>Redis
